@@ -24,7 +24,8 @@
 - Add tune management
 
 ## Service Mesh
-  later
+- The service mesh on Openshift is not totally same with Istio
+- Kiali is the Istio observability console
   
 ## Serverless
   later
